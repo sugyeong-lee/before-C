@@ -1,0 +1,19 @@
+﻿  func.cpp
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(53,34): error C2084: 'void Stock::buy(int,float)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(3): message : 'buy'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(58,35): error C2084: 'void Stock::sell(int,float)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(8): message : 'sell'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(63,30): error C2084: 'void Stock::update(float)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(13): message : 'update'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(67,20): error C2084: 'void Stock::show(void)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(17): message : 'show'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(73,32): error C2084: 'Stock &Stock::topval(Stock &)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(23): message : 'topval'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(82,1): error C2084: 'Stock::Stock(std::string,int,float)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(31): message : '{ctor}'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(89,16): error C2084: 'Stock::Stock(void)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(39): message : '{ctor}'의 이전 정의를 참조하십시오.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(97,1): error C2084: 'Stock::~Stock(void)' 함수에 이미 본문이 있습니다.
+C:\Users\653dl\source\repos\this 포인터, 클래스 객체 배열\this 포인터, 클래스 객체 배열\func.cpp(46): message : '{dtor}'의 이전 정의를 참조하십시오.
+  main.cpp
+  코드를 생성하고 있습니다...
