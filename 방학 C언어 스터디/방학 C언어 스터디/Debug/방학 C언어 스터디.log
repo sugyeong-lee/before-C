@@ -1,0 +1,23 @@
+﻿  소스.c
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(3,6): error C2065: 'FILE': 선언되지 않은 식별자입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(3,10): error C2065: 'fp': 선언되지 않은 식별자입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(3,6): warning C4552: '*': 식의 결과가 사용되지 않습니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(9,9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(12,11): error C2065: 'fp': 선언되지 않은 식별자입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(12,18): warning C4013: 'fopen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(18,18): warning C4013: 'fread'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(18,33): error C2065: 'fp': 선언되지 않은 식별자입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(32,22): error C2059: 구문 오류: '<='
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(35,11): warning C4013: 'feof'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(35,14): error C2065: 'fp': 선언되지 않은 식별자입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(38,8): warning C4013: 'fclose'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\소스.c(38,11): error C2065: 'fp': 선언되지 않은 식별자입니다.
+  연습.c
+  파일 속의 문자열을 바꿔 넣기.c
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(7,7): warning C4101: 'bufr' :참조되지 않은 지역 변수입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(10,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(6,15): warning C4101: 'fpw' :참조되지 않은 지역 변수입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(6,8): warning C4101: 'fpr' :참조되지 않은 지역 변수입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(10,13): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+C:\Users\653dl\source\repos\방학 C언어 스터디\방학 C언어 스터디\파일 속의 문자열을 바꿔 넣기.c(7,18): warning C4101: 'bufw' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
